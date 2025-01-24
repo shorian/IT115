@@ -1,7 +1,3 @@
----
-description: Discussing our plans for Assignment 3, and helping teammates get comfortable with git and github
----
-
 ## Tasks
 - [x] Accept Sid's invitation to the shared repo
 - [ ] We've agreed on "Securing your personal data" as our topic for the wiki assignment. Choose your subtopic:
