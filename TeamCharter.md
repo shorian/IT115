@@ -8,7 +8,7 @@
 
 ### Project Timeline
 
-Start: 2025-01-30
+Start: 2025-01-30  
 End: 2025-03-17
 
 ### Project Goals
