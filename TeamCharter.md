@@ -84,7 +84,15 @@ End: 2025-03-17
 
 ### Bennet - Point of Contact
 
-[Placeholder Text]
+#### Strengths
+
+- Positive attitude
+- Clear communicator
+
+#### Weaknesses
+
+- Short attention span
+- Lack of knowledge of git and github
 
 ### Sid - Team Coordinator
 
@@ -190,5 +198,5 @@ Location/Platform: Discord voice/video
 Signed By:
 - [ ] Sid
 - [ ] Quentin
-- [ ] Bennet
+- [x] Bennet
 - [ ] Kokob
