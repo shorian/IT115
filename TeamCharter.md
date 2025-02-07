@@ -77,8 +77,6 @@ Please read error messaged given to you within the git bash. Oftentimes the simp
 
 ### Quentin - Tech Ops
 
-[Placeholder Text]
-
 #### Strengths
 - Good at project architectural design
 - Technically minded
@@ -132,6 +130,6 @@ To prepare for meetings, please try to have assigned tasks done the day before. 
 
 Signed By:
 - [x] Sid
-- [ ] Quentin
+- [x] Quentin
 - [x] Bennet
 - [ ] Kokob
