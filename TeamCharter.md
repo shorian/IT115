@@ -94,9 +94,16 @@ End: 2025-03-17
 - Short attention span
 - Lack of knowledge of git and github
 
-### Sid - Team Coordinator
+### Sid - Architect
 
-[Placeholder Text]
+#### Strengths
+- Broad familiarity with web development
+- Visual/UX/UI design skills
+- Semi-recreationally hyper-organized
+
+#### Weaknesses
+- I may spend too long on tasks with ambiguous requirements, especially design
+- I always have an opinion and I'm always ready to argue for it. Sometimes this results in hasty decisions when further brainstorming or requirements-gathering is warranted.
 
 ### Kokob - [TBD]
 
@@ -196,7 +203,7 @@ Location/Platform: Discord voice/video
 ~~7. Don’t use destructive commands like git clean and git prune before discussing them with the team. Commands that can destroy history usually provide warnings.~~
 
 Signed By:
-- [ ] Sid
+- [x] Sid
 - [ ] Quentin
 - [x] Bennet
 - [ ] Kokob
